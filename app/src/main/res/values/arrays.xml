@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string-array name="fecha">
+            <item>Fecha</item>
+
+        </string-array>
+    <string-array name="EMSEFOR">
+        <item>EMSEFOR</item>
+        <item>Baran</item>
+        <item>Movisuar</item>
+        <item>Logistica y servicio</item>
+    </string-array>
+    <string-array name="Encargado">
+        <item>Encargado</item>
+        <item>Claudio Correo</item>
+        <item>Diego Flores</item>
+        <item>Joaquin Lopez</item>
+    </string-array>
+
+    <string-array name="Predio">
+        <item>Predio</item>
+        <item>San Jose</item>
+        <item>Celina</item>
+        <item>Ibicuy</item>
+    </string-array>
+    <string-array name="Area">
+        <item>Area</item>
+        <item>Establecimiento</item>
+        <item>Cocecha</item>
+        <item>Administracion</item>
+    </string-array>
+    <string-array name="Actividad">
+        <item>Actividad</item>
+        <item>Poda 1</item>
+        <item>Poda 2</item>
+        <item>Raleo</item>
+    </string-array>
+
+    <string-array name="Asesorde">
+        <item>Asesorde</item>
+        <item>Baran</item>
+        <item>Movisuar</item>
+        <item>Logistica y servicio</item>
+    </string-array>
+
+    <string-array name="CantidadPersonal">
+        <item>Cantidad de personal</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    </resources>
